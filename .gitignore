@@ -1,0 +1,3 @@
+images/*
+!images/icon.png
+*.jpg
